@@ -1,2 +1,2 @@
-# Animations_VisusalEffects
+# Animations_VisualEffects
 Animations and Visual Effects 
